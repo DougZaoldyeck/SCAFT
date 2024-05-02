@@ -22,7 +22,7 @@ import "./EllipticCurve.sol";
  *      withdraw funds the sender / creator of the HTLC can get their ETH
  *      back with this function.
  */
-contract NiFT {
+contract NiAE {
 
     event LogHTLCNew(
         bytes32 indexed contractId,
